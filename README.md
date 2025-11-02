@@ -36,8 +36,8 @@ L’ensemble du code est écrit en **Python**, avec des visualisations via **Mat
 
 1. **Cloner le dépôt** :
    ```bash
-   git clone https://github.com/<votre-nom-utilisateur>/<nom-du-repo>.git
-   cd <nom-du-repo>
+   git clone https://github.com/udurand/BE1_Data_science_ECL.git
+   cd BE1_Data_science_ECL
    ```
 
 2. **Créer un environnement Python** :
