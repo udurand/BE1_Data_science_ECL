@@ -63,7 +63,7 @@ print(" Début du processus...")
 
 
 # === 2. Fonction utilitaire pour charger les datasets ===
-def read_ds(ds_name: str, path: str = "C:\Julien"):
+def read_ds(ds_name: str, path: str = "C:\BE1_Data_science_ECL\data"):
     """
     Charge le dataset (train ou test) de manière robuste, 
     même si les lignes n'ont pas le même nombre d'actions.
@@ -747,3 +747,4 @@ print(f"\n Temps total d'exécution : {time.time() - start_time:.1f} secondes.")
 
 # Fin du script – toutes les étapes d’analyse et de modélisation sont terminées.
 # Le fichier submission.csv contient la prédiction finale pour le jeu de test.
+
