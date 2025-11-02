@@ -56,7 +56,7 @@ L’ensemble du code est écrit en **Python**, avec des visualisations via **Mat
 
 ## Utilisation
 
-1. Placer vos fichiers de données `train.csv` et `test.csv` dans le dossier racine (ou modifier le chemin dans le script).
+1. Placer vos fichiers de données `train.csv` et `test.csv` dans le dossier C:\BE1_Data_science_ECL\data (ou modifier le chemin dans le script: def read_ds(ds_name: str, path: str = "C:\BE1_Data_science_ECL\data"):).
 2. Lancer le script principal :
    ```bash
    python BE1_data_science_ECL_2025.py
